@@ -20,7 +20,7 @@ const Home = () => {
           <Col xs={12} md={6} style={{margin:"auto", color:"#ffffff"}} >
         
           <h3>Hi, I am HARSHIT,</h3>
-          <p><h2>MERN Stack Developer</h2></p>
+         <h2>MERN Stack Developer</h2>
            <p style={{fontSize:"smaller"}}> a passionate and results-driven Full Stack Developer  with a knack for building seamless, scalable, and user-centric web applications. With expertise in both front-end and back-end technologies, I thrive on turning ideas into functional, high-performance digital solutions.</p>
       <div className="pb-5">
            <a href="HARSHIT_REASUME.pdf" download="HARSHIT_REASUME.pdf"> <Button variant="light" >Dowwnlad CV</Button></a> 
